@@ -1,0 +1,8 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dadayechong/uniapp-demo.git",
+  "author": "dadayechong <dadayechong@163.com>",
+  "license": "MIT"
+}
